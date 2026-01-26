@@ -1,9 +1,13 @@
 
 🌍 Air Quality Index (AQI) Analysis Dashboard
 
+![image alt](https://github.com/Abhi-Git44u/Real-Project/blob/ec8deab0ac4ac80b3e24f433bc006bdb3c543cf9/ScreenShot/Main%20Dashboard%20SS.png)
+
+
 Air pollution has become one of the most critical environmental and public health challenges in modern times. This project presents an interactive Power BI dashboard that analyzes Air Quality Index (AQI) data across India to uncover pollution patterns, identify high-risk regions, and highlight the impact of major pollutants.
 
 The dashboard transforms raw AQI data into actionable insights for better understanding environmental conditions and public health risks.
+
 
 ❗ Why Air Quality Is a Serious Cause of Concern
 
@@ -23,6 +27,8 @@ Key concerns highlighted by this project:
 
 This analysis emphasizes the urgent need for data-driven awareness, monitoring, and policy interventions to mitigate air pollution risks.
 
+
+
 📊 Project Objectives
 
 Analyze AQI trends across states, cities, and time
@@ -34,6 +40,8 @@ Classify air quality into standardized AQI levels
 Detect primary pollutants contributing to air quality degradation
 
 Provide an interactive analytical dashboard for easy exploration
+
+
 
 🚀 Key Features
 
@@ -49,6 +57,8 @@ Provide an interactive analytical dashboard for easy exploration
 
 📌 KPI Cards for Avg AQI, Max AQI, AQI Category & Dominant Pollutant
 
+
+
 🛠️ Tools & Technologies Used
 
 Power BI Desktop
@@ -60,6 +70,8 @@ Power Query (ETL & Data Cleaning)
 Data Modeling & Relationships
 
 Interactive Dashboard Design
+
+
 
 🧮 DAX & Data Modeling Highlights
 
