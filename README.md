@@ -9,6 +9,10 @@ Air pollution has become one of the most critical environmental and public healt
 The dashboard transforms raw AQI data into actionable insights for better understanding environmental conditions and public health risks.
 
 
+
+
+
+
 ❗ Why Air Quality Is a Serious Cause of Concern
 
 Poor air quality directly affects human health, climate, and overall quality of life. Prolonged exposure to polluted air can lead to severe health complications and long-term environmental damage.
