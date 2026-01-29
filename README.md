@@ -41,6 +41,8 @@ Children, elderly individuals, and people with pre-existing health conditions ar
 
 This analysis highlights the urgent need for data-driven awareness, continuous monitoring, and policy-level interventions.
 
+---
+
 🎯 Project Objectives
 
 Analyze AQI trends across states, cities, and time
@@ -52,6 +54,8 @@ Categorize air quality into standard AQI levels
 Detect dominant pollutants affecting air quality
 
 Provide an interactive dashboard for exploration and insights
+
+---
 
 🚀 Key Features
 
@@ -67,6 +71,8 @@ Interactive filters for year, state, and city
 
 KPI cards for average AQI, maximum AQI, AQI category, and dominant pollutant
 
+---
+
 🛠️ Tools & Technologies Used
 
 Power BI Desktop
@@ -78,6 +84,8 @@ Power Query (ETL & Data Cleaning)
 Data modeling and relationships
 
 Interactive dashboard design
+
+---
 
 🧠 DAX & Data Modeling Highlights
 
